@@ -44,4 +44,3 @@ Contributions are welcome! If you find a bug or want to improve the app, feel fr
 
 If you have any questions, suggestions, or feedback, you can reach out to us at farzamranahosseini.com.
 
-Feel free to customize and expand upon this "About" text to better represent your app and provide any additional information that you think is relevant.
